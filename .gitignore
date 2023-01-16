@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Back/AppFinanceiro/AppFinanceiro.Application/obj
+/Back/AppFinanceiro/AppFinanceiro/obj
+/Back/AppFinanceiro/AppFinanceiro.Application.DTO/obj
+/Back/AppFinanceiro/AppFinanceiro.Domain/obj
+/Back/AppFinanceiro/AppFinanceiro.Domain.Core/obj
+/Back/AppFinanceiro/AppFinanceiro.Domain.Services/obj
+/Back/AppFinanceiro/.vs
